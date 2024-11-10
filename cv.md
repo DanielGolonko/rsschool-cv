@@ -54,7 +54,12 @@ I am an aspiring software developer with a passion for problem-solving and conti
 - **Python for Everybody** - [edX](https://edx.org)
 
 
+---
 
+## 🌍 English Language
+
+**English Proficiency Level:** C1 (Advanced)  
+**Experience:** Attended multiple English-speaking webinars and completed online courses in English. Additionally, I regularly engage with technical documentation and tutorials in English.
 
 ---
 **Note:** This CV isn't real
